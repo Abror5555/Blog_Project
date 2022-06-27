@@ -1,0 +1,12 @@
+header h1 a{
+    background-color: black;
+    color: #fff;
+    margin-right: 50px;
+}
+
+body {
+    font-family: 'NOTO Sans JP', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: green;
+}
